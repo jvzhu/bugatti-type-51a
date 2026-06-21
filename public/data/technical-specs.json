@@ -1,0 +1,56 @@
+{
+  "bugatti_type_51a": {
+    "overview": {
+      "name": "Bugatti Type 51A",
+      "years_produced": "1931-1934",
+      "production_count": "40",
+      "classification": "Grand Prix Racing Car",
+      "origin": "Molsheim, France"
+    },
+    "engine": {
+      "type": "8-cylinder, twin overhead cam",
+      "displacement_cc": 2262,
+      "bore_mm": 60,
+      "stroke_mm": 100,
+      "horsepower": 200,
+      "rpm_max": 5500,
+      "fuel_consumption_mpg": "12-15"
+    },
+    "performance": {
+      "top_speed_mph": 145,
+      "acceleration_0_60_sec": 3.9,
+      "power_to_weight_ratio": "0.34 hp/lb"
+    },
+    "chassis": {
+      "frame": "Tubular steel",
+      "wheelbase_inches": 108,
+      "track_front_inches": 57,
+      "track_rear_inches": 59,
+      "curb_weight_lbs": 1540,
+      "suspension_front": "Independent double A-arm",
+      "suspension_rear": "Live axle, semi-elliptic leaf springs"
+    },
+    "brakes": {
+      "type": "Mechanical drum brakes",
+      "brake_lines": "Cable-operated",
+      "brake_fluid": "None (mechanical system)"
+    },
+    "transmission": {
+      "type": "Manual",
+      "gears": 4,
+      "gear_ratio_final_drive": "3.73:1"
+    },
+    "wheels_tires": {
+      "wheel_diameter_inches": 18,
+      "tire_width_inches": 5.5,
+      "tire_type": "Dunlop pneumatic racing tires",
+      "tire_pressure_psi": 35
+    },
+    "dimensions": {
+      "length_inches": 180,
+      "width_inches": 72,
+      "height_inches": 52,
+      "fuel_tank_capacity_gallons": 22
+    }
+  }
+}

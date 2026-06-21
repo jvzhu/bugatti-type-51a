@@ -1,0 +1,58 @@
+{
+  "major_races": [
+    {
+      "year": 1931,
+      "race": "Monaco Grand Prix",
+      "driver": "William Grover-Williams",
+      "result": "1st Place",
+      "significance": "First victory for Type 51A in major competition"
+    },
+    {
+      "year": 1931,
+      "race": "French Grand Prix",
+      "driver": "Guy Bouriat",
+      "result": "2nd Place",
+      "significance": "Strong performance at national championship"
+    },
+    {
+      "year": 1932,
+      "race": "Italian Grand Prix",
+      "driver": "Achille Varzi",
+      "result": "1st Place",
+      "significance": "Victory on demanding Monza circuit"
+    },
+    {
+      "year": 1933,
+      "race": "Mille Miglia",
+      "driver": "Robert Benoist",
+      "result": "Class Victory",
+      "significance": "Endurance race success"
+    }
+  ],
+  "notable_drivers": [
+    {
+      "name": "William Grover-Williams",
+      "nationality": "British",
+      "racing_years": "1925-1934",
+      "notable_achievement": "First Monaco GP winner (1929)"
+    },
+    {
+      "name": "Achille Varzi",
+      "nationality": "Italian",
+      "racing_years": "1924-1948",
+      "notable_achievement": "5-time Grand Prix winner"
+    },
+    {
+      "name": "Robert Benoist",
+      "nationality": "French",
+      "racing_years": "1927-1939",
+      "notable_achievement": "Fastest man on earth (land speed record)"
+    }
+  ],
+  "championship_records": {
+    "total_victories": 12,
+    "podium_finishes": 28,
+    "racing_seasons": "1931-1934",
+    "drivers_championship_wins": 2
+  }
+}
